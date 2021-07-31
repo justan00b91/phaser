@@ -1,5 +1,5 @@
 # phaser
-A tool to convert and save Videos in the different location(s) by separating it into multiple separate frames(.png) and sound(.mp3) and then re-compiling it to re-produce the original file(.mp4) when needed.
+A tool to convert and save Videos in different location(s) by separating it into Sound(.mp3) and multiple Frames(.png) and then re-compiling it to produce the original file(.mp4) when needed.
 
 ## Dependencies
 * Python 3.*
